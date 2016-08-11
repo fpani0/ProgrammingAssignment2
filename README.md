@@ -1,5 +1,15 @@
 ### Introduction
 
+This is my second assignment as a student for R programming.   The cachematrix.R code takes in two functions:
+
+1.  makeCacheMatrix - function used to store a cache copy of it's matrix and it's inverse; there are 4 objects
+2.  cacheSolve - function to solve the inverse of the matrix unless it is already cached at which the cache value is returned
+
+Instructions from the instructor have been retained for future reference as per below
+
+### Instructions from the Instructor follow
+
+
 This second programming assignment will require you to write an R
 function that is able to cache potentially time-consuming computations.
 For example, taking the mean of a numeric vector is typically a fast
